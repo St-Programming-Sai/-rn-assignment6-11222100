@@ -5,7 +5,7 @@ Repository for a React Native app mimicking a provided UI mockup. Features inclu
 
 
 <p align="center">
-    <img src="./assets/screenshot.gif" alt="Demo" width=300>
+    <img src="./AssignmentSix/assets/screenshot.gif" alt="Demo" width=300>
     <br>
     <h1 align="center"> Gif Demonstration</h1>
 </p>
@@ -104,10 +104,10 @@ This React Native project is created as part of the DCIT202 Mobile Application D
 
 
 <p align="center">
-  <img src="./assets/checkout-screenshot.jpg" width="250" hspace=30>
-  <img src="./assets/empty-checkout-screenshot.jpg" width="250">
+  <img src="./AssignmentSix/assets/checkout-screenshot.jpg" width="250" hspace=30>
+  <img src="./AssignmentSix/assets/empty-checkout-screenshot.jpg" width="250">
   <br>
-  <img src="./assets/home-screen-screenshot.jpg" width="250" vspace=30>
+  <img src="./AssignmentSix/assets/home-screen-screenshot.jpg" width="250" vspace=30>
 </p>
 
 
